@@ -1,0 +1,715 @@
+[
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1514867943000,
+            "changeTime": 1514867943000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1514867943000,
+            "changeTime": 1514867943000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "156bbc6b81bd21c2cc4d7f6928839c41ba346793",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1514871032000,
+            "changeTime": 1514871032000,
+            "contentHash": "a3bae0569540d3d6d0323d56c1313a3c24d9301a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent",
+            "isDirectory": true,
+            "size": 374,
+            "modifiedTime": 1514871002000,
+            "changeTime": 1514868160000,
+            "contentHash": "bb187806e5435df4046c045dd5025de89f4edd64",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent/QRCodeVersionTwoComponent.auradoc",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent/QRCodeVersionTwoComponent.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1514868160000,
+            "changeTime": 1514868160000,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent/QRCodeVersionTwoComponent.cmp",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent/QRCodeVersionTwoComponent.cmp",
+            "isDirectory": false,
+            "size": 490,
+            "modifiedTime": 1514877924000,
+            "changeTime": 1514877924000,
+            "contentHash": "1b6ca51846a5b316561d53855eb975637bcfcbde",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent/QRCodeVersionTwoComponent.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent/QRCodeVersionTwoComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 257,
+            "modifiedTime": 1514868160000,
+            "changeTime": 1514868160000,
+            "contentHash": "ef63c9ef5305823261b393813456e883de4fc708",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent/QRCodeVersionTwoComponent.css",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent/QRCodeVersionTwoComponent.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1514868160000,
+            "changeTime": 1514868160000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent/QRCodeVersionTwoComponent.design",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent/QRCodeVersionTwoComponent.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1514868160000,
+            "changeTime": 1514868160000,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent/QRCodeVersionTwoComponent.svg",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent/QRCodeVersionTwoComponent.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1514868160000,
+            "changeTime": 1514868160000,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent/QRCodeVersionTwoComponentController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent/QRCodeVersionTwoComponentController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1100,
+            "modifiedTime": 1514878164000,
+            "changeTime": 1514878164000,
+            "isWorkspace": false,
+            "contentHash": "3edcc69bbd49b081897a967fcb805aef3e2f283c"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent/QRCodeVersionTwoComponentHelper.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent/QRCodeVersionTwoComponentHelper.js",
+            "isDirectory": false,
+            "size": 127,
+            "modifiedTime": 1514878114000,
+            "changeTime": 1514878114000,
+            "contentHash": "a8384783e02c55289fd7df34ce67ba7fb1e12d97",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent/QRCodeVersionTwoComponentRenderer.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent/QRCodeVersionTwoComponentRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1514868160000,
+            "changeTime": 1514868160000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1514867994000,
+            "changeTime": 1514867994000,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode.resource-meta.xml",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode.resource-meta.xml",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "a26956096455c1ad8f2625a5a817d45b35678b07",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/COPYING",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/COPYING",
+            "isDirectory": false,
+            "size": 11357,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "7df059597099bb7dcf25d2a9aedfaf4465f72d8d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/README",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/README",
+            "isDirectory": false,
+            "size": 1622,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "f6bca92d6fcd062fa241611b870e2bbbdc937b19",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/alignpat.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/alignpat.js",
+            "isDirectory": false,
+            "size": 7517,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "1a20bf96a1310a6312024a9dabfeec8918427b72",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/bitmat.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/bitmat.js",
+            "isDirectory": false,
+            "size": 2644,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "e202fffd4f762fddc8527146c906bc2cafe37d37",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/bmparser.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/bmparser.js",
+            "isDirectory": false,
+            "size": 5780,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "cdff30e1448d97a1d316f42f0b282552cfe42b8c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/datablock.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/datablock.js",
+            "isDirectory": false,
+            "size": 3575,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "def2bd0136009f79344fad4d49e29c9f08f6b6c9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/databr.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/databr.js",
+            "isDirectory": false,
+            "size": 9297,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "ce94a9607e9490b42d2f50f20c169c5e28473bf9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/datamask.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/datamask.js",
+            "isDirectory": false,
+            "size": 3852,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "a46372b3e3fbc761ec37791a36d3e71a29bc0064",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/decoder.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/decoder.js",
+            "isDirectory": false,
+            "size": 2867,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "48fa7390e2ba876ca2cb2615d3ddcd5c5561737a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/detector.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/detector.js",
+            "isDirectory": false,
+            "size": 13563,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "4a40ee88493d22060f3818beec72c8d782c6a3c7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/errorlevel.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/errorlevel.js",
+            "isDirectory": false,
+            "size": 1468,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "196ab425c77bf2314d6ead2689be59bf9cdbe08d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/findpat.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/findpat.js",
+            "isDirectory": false,
+            "size": 18398,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "8671fbd3fae4c95e23055180ad0ba1abc3bebccc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/formatinf.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/formatinf.js",
+            "isDirectory": false,
+            "size": 4242,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "5f43ea1b80f23d496aefb8b6550360c03757545d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/gf256.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/gf256.js",
+            "isDirectory": false,
+            "size": 2594,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "b2c88db0c128288254a6a9f0dcc7992955c6b74b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/gf256poly.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/gf256poly.js",
+            "isDirectory": false,
+            "size": 6450,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "31b8428677b82236b215f1f13afdfa90df331cba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/grid.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/grid.js",
+            "isDirectory": false,
+            "size": 4734,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "07246c51a5fc6fa571466380d7c03652c484311f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/qrcode.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/qrcode.js",
+            "isDirectory": false,
+            "size": 13598,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "5beb36cfeda84408367f20b4139f7939111dc144",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/rsdecoder.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/rsdecoder.js",
+            "isDirectory": false,
+            "size": 5339,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "a4c0b041fbf01cbae9048d10cb22b18a82bb1be0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/test.html",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/test.html",
+            "isDirectory": false,
+            "size": 4009,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "9627d3abff487aa42ffd8b3a4ae2425f3293d809",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/version.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src/version.js",
+            "isDirectory": false,
+            "size": 15631,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "4452f22650a81c59424eba73cf241e1ce68f0b18",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1514877941000,
+            "changeTime": 1514877941000,
+            "contentHash": "2f755eb45672a8abd09a925b718083b8a67fef66",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "91cb9be87b3957598983d62430fbdf747609a145",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "53e798da7d153895fb36485b231e54622d34b75f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/jsqrcode/jsqrcode-master/src",
+            "isDirectory": true,
+            "size": 680,
+            "modifiedTime": 1514868742000,
+            "changeTime": 1514868742000,
+            "contentHash": "88ec7d5b589559529cc0caa0080a0e345a2258b4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/DummyApp",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/DummyApp",
+            "isDirectory": true,
+            "size": 340,
+            "modifiedTime": 1514871032000,
+            "changeTime": 1514871032000,
+            "contentHash": "49173d9137aa35bca612a9d96ea0a65dc32939ca",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/DummyApp/DummyApp.app",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/DummyApp/DummyApp.app",
+            "isDirectory": false,
+            "size": 78,
+            "modifiedTime": 1514871073000,
+            "changeTime": 1514871073000,
+            "contentHash": "f2a535568e2a71a31c56c8206ff20b1e5e07ca5c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/DummyApp/DummyApp.app-meta.xml",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/DummyApp/DummyApp.app-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1514871032000,
+            "changeTime": 1514871032000,
+            "contentHash": "149aa571cfdf98ce7fa983803837f1a3c9431bdd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/DummyApp/DummyApp.auradoc",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/DummyApp/DummyApp.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1514871032000,
+            "changeTime": 1514871032000,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/DummyApp/DummyApp.css",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/DummyApp/DummyApp.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1514871032000,
+            "changeTime": 1514871032000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/DummyApp/DummyApp.svg",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/DummyApp/DummyApp.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1514871032000,
+            "changeTime": 1514871032000,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/DummyApp/DummyAppController.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/DummyApp/DummyAppController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1514871032000,
+            "changeTime": 1514871032000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/DummyApp/DummyAppHelper.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/DummyApp/DummyAppHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1514871032000,
+            "changeTime": 1514871032000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/DummyApp/DummyAppRenderer.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/DummyApp/DummyAppRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1514871032000,
+            "changeTime": 1514871032000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/QRCodeCompressedJS.resource-meta.xml",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/QRCodeCompressedJS.resource-meta.xml",
+            "isDirectory": false,
+            "size": 256,
+            "modifiedTime": 1514876436000,
+            "changeTime": 1514876436000,
+            "contentHash": "d16dc177d5b880a2360e7e41e1dbf95733795e50",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/QRCodeCompressedJS.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/QRCodeCompressedJS.js",
+            "isDirectory": false,
+            "size": 51104,
+            "modifiedTime": 1514875102000,
+            "changeTime": 1514875102000,
+            "contentHash": "1cc673a95337a4241f6f81edd374a938e2e880bd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/QRGlobal.resource-meta.xml",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/QRGlobal.resource-meta.xml",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1514877941000,
+            "changeTime": 1514877941000,
+            "contentHash": "c5ae89a08d0469ad1b16ff5ef26d4cf4b7ffe209",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/QRGlobal.js",
+        {
+            "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/staticresources/QRGlobal.js",
+            "isDirectory": false,
+            "size": 117651,
+            "modifiedTime": 1514877941000,
+            "changeTime": 1514877941000,
+            "contentHash": "04f5090e3e83baf3a043055899fd1662a5dc9be7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]

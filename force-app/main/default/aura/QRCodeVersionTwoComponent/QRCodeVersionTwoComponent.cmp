@@ -1,0 +1,19 @@
+<aura:component>        
+    
+    <aura:registerEvent type="c:CodeScanned"/>
+    <aura:handler event="c:CodeScanned" action="{!c.handleCodeScannedEvent}"/>
+    
+    <ltng:require scripts="{!$Resource.QRGlobal}" afterScriptsLoaded="{!c.scriptsLoaded}" />
+    
+    <aura:attribute name="status" type="String" default="Waiting..."/>
+
+    <input aura:id="the_file" id="the_file" type="file" onchange="{!c.previewFile}" />
+    <br />
+
+    <h2 aura:id="response" id="response">
+        {!v.status}
+    </h2>
+
+    <canvas aura:id="qr-canvas" id="qr-canvas" width="300" height="300"></canvas>
+
+</aura:component>	
