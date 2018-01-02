@@ -167,11 +167,11 @@
             "sourcePath": "/Users/fryan/dev/salesforcedx/QRVersionTwo/force-app/main/default/aura/QRCodeVersionTwoComponent/QRCodeVersionTwoComponentController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1480,
-            "modifiedTime": 1514880520000,
-            "changeTime": 1514880520000,
+            "size": 1463,
+            "modifiedTime": 1514880148000,
+            "changeTime": 1514880148000,
             "isWorkspace": false,
-            "contentHash": "f00d092503768ba7332bff75f3691f8e73ac6bc5"
+            "contentHash": "e25a81b2b197206161e4e6ca82aaaefae69183e5"
         }
     ],
     [

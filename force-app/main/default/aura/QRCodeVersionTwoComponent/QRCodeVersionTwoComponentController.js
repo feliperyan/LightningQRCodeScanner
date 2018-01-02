@@ -2,18 +2,18 @@
     scriptsLoaded : function(component, event, helper) {
         console.log('Scripts loaded.');
         
-        _qrcode.callback = function(data) {
+        _qrcode.callback = $A.getCallback(function(data) {
             //console.log(data);
             //helper.helperMethod(component, null, data);
             
             var appEvent = $A.get("e.c:CodeScanned");
-            appEvent.setParams({'data': data});
+            appEvent.setParam('data', data);
             appEvent.fire();
-        }
+        });
     },
 
     handleCodeScannedEvent : function(cmp, event, helper) {
-        console.log('Capture Code Scanned Event');
+        console.log('Captured CodeScanned Event');
         var eventData = event.getParam('data');
         helper.helperMethod(cmp, null, eventData);
     },

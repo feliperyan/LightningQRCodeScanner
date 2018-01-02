@@ -1,6 +1,6 @@
 <aura:component>        
     
-    <aura:registerEvent type="c:CodeScanned"/>
+    <aura:registerEvent name="CodeScanned" type="c:CodeScanned"/>
     <aura:handler event="c:CodeScanned" action="{!c.handleCodeScannedEvent}"/>
     
     <ltng:require scripts="{!$Resource.QRGlobal}" afterScriptsLoaded="{!c.scriptsLoaded}" />
