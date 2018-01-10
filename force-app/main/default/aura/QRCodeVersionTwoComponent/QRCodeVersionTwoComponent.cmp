@@ -1,19 +1,32 @@
-<aura:component>        
+<aura:component implements="flexipage:availableForAllPageTypes,force:LightningQuickAction">        
+    
+    <aura:attribute name="status" type="String" default="Waiting ..."/>
+    
+    <lightning:spinner variant="brand" size="large" aura:id="mySpinner" class="slds-hide" />
     
     <aura:registerEvent name="CodeScanned" type="c:CodeScanned"/>
     <aura:handler event="c:CodeScanned" action="{!c.handleCodeScannedEvent}"/>
+    <!--<aura:handler event="aura:waiting" action="{!c.toggleSpinner}"/>
+    <aura:handler event="aura:doneWaiting" action="{!c.toggleSpinner}"/>-->
     
     <ltng:require scripts="{!$Resource.QRGlobal}" afterScriptsLoaded="{!c.scriptsLoaded}" />
     
-    <aura:attribute name="status" type="String" default="Waiting..."/>
-
-    <input aura:id="the_file" id="the_file" type="file" onchange="{!c.previewFile}" />
-    <br />
-
-    <h2 aura:id="response" id="response">
-        {!v.status}
-    </h2>
-
-    <canvas aura:id="qr-canvas" id="qr-canvas" width="300" height="300"></canvas>
-
-</aura:component>	
+    <lightning:card >
+        <aura:set attribute="title">
+            <lightning:icon iconName="standard:scan_card" size="medium" class="slds-m-right_x-small"/>
+            QR Code Scan
+        </aura:set>
+        <aura:set attribute="footer">
+        </aura:set>
+        <p class="slds-p-horizontal_small cardBody">
+            <lightning:input type="file" aura:id="the_file" name="file" isLoading="true" 
+                             multiple="false" accept="image/png" onchange="{!c.previewFile}"/>
+            <canvas aura:id="qr-canvas" id="qr-canvas" class="slds-hide slds-m-top_medium"></canvas>
+            <h2 aura:id="response" id="response" class="slds-m-top_medium codeWrapper">
+                {!v.status}
+            </h2>
+            
+        </p>
+    </lightning:card>
+    
+</aura:component>
