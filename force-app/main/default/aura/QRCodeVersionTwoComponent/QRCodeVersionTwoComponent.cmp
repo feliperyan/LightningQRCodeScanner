@@ -1,32 +1,25 @@
-<aura:component implements="flexipage:availableForAllPageTypes,force:LightningQuickAction">        
-    
-    <aura:attribute name="status" type="String" default="Waiting ..."/>
-    
+<aura:component implements="flexipage:availableForAllPageTypes,force:LightningQuickAction">            
     <lightning:spinner variant="brand" size="large" aura:id="mySpinner" class="slds-hide" />
     
     <aura:registerEvent name="CodeScanned" type="c:CodeScanned"/>
-    <aura:handler event="c:CodeScanned" action="{!c.handleCodeScannedEvent}"/>
+    <!--<aura:handler event="c:CodeScanned" action="{!c.handleCodeScannedEvent}"/>-->
     <!--<aura:handler event="aura:waiting" action="{!c.toggleSpinner}"/>
     <aura:handler event="aura:doneWaiting" action="{!c.toggleSpinner}"/>-->
     
     <ltng:require scripts="{!$Resource.QRGlobal}" afterScriptsLoaded="{!c.scriptsLoaded}" />
     
-    <lightning:card >
-        <aura:set attribute="title">
-            <lightning:icon iconName="standard:scan_card" size="medium" class="slds-m-right_x-small"/>
-            QR Code Scan
-        </aura:set>
-        <aura:set attribute="footer">
-        </aura:set>
-        <p class="slds-p-horizontal_small cardBody">
-            <lightning:input type="file" aura:id="the_file" name="file" isLoading="true" 
-                             multiple="false" accept="image/png" onchange="{!c.previewFile}"/>
-            <canvas aura:id="qr-canvas" id="qr-canvas" class="slds-hide slds-m-top_medium"></canvas>
-            <h2 aura:id="response" id="response" class="slds-m-top_medium codeWrapper">
-                {!v.status}
-            </h2>
-            
+    <div class="cardBody">
+		<label class="fileContainer">
+			Scan Code
+            <input aura:id="the_button" id="the_button" type="file" onchange="{!c.handleCustomButton}"></input>
+		</label>
+        
+        <!--
+        <lightning:input type="file" label="" aura:id="the_file" name="file" isLoading="true" 
+                            multiple="false" accept="image/png" onchange="{!c.previewFile}"/>
+		-->
+        <p>
+	        <canvas aura:id="qr-canvas" id="qr-canvas" class="slds-hide slds-m-top_medium"></canvas>
         </p>
-    </lightning:card>
-    
+    </div>
 </aura:component>
